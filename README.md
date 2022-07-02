@@ -10,4 +10,4 @@
  3. Dentro do diretorio my-app da aplicação, execute o comando ```node start```
  4. Abra seu navegador e acesse o link ```http://localhost:3000```
 
- <h3>Api Utilizada: The Movie Database (```https://www.themoviedb.org/documentation/api```)<h3>
+ <h3>Api Utilizada: The Movie Database ```https://www.themoviedb.org/documentation/api```<h3>
